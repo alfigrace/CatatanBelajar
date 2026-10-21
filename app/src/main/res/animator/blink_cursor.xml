@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kursor berkedip terus-menerus setelah garis tergambar -->
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="450"
+    android:propertyName="strokeAlpha"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    android:startOffset="1000"
+    android:valueFrom="0"
+    android:valueTo="1"
+    android:valueType="floatType" />

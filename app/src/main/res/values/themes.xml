@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CatatanBelajar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/logo_ink</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/logo_mint</item>
+        <item name="colorOnSecondary">@color/logo_ink</item>
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@color/logo_ink</item>
+        <item name="android:colorBackground">@color/surface_bg</item>
+        <item name="android:windowBackground">@color/surface_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor" >@android:color/transparent</item>
+        <item name="android:navigationBarColor" >@android:color/transparent</item>
+    </style>
+
+    <!-- Tombol utama: mint dengan teks navy -->
+    <style name="Widget.CatatanBelajar.Button" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/logo_mint</item>
+        <item name="android:textColor">@color/logo_ink</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minHeight">54dp</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+    <!-- Tombol teks (Batal, dll) -->
+    <style name="Widget.CatatanBelajar.TextButton" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/text_muted</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <!-- Kolom isian -->
+    <style name="Widget.CatatanBelajar.TextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="boxBackgroundColor">@android:color/white</item>
+        <item name="boxStrokeColor">@color/logo_ink</item>
+    </style>
+
+    <style name="Widget.CatatanBelajar.TextInput.Dropdown" parent="Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="boxBackgroundColor">@android:color/white</item>
+        <item name="boxStrokeColor">@color/logo_ink</item>
+    </style>
+
+    <!-- Chip filter kategori -->
+    <style name="Widget.CatatanBelajar.Chip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_bg</item>
+        <item name="android:textColor">@color/chip_text</item>
+        <item name="chipStrokeColor">@color/border</item>
+        <item name="chipStrokeWidth">1.5dp</item>
+        <item name="chipMinHeight">40dp</item>
+        <item name="checkedIconVisible">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+
+    <!-- Gambar bulat -->
+    <style name="ShapeAppearance.CatatanBelajar.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Gambar sudut membulat -->
+    <style name="ShapeAppearance.CatatanBelajar.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+</resources>

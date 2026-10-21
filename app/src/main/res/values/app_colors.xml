@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Warna logo (logo_ink, logo_mint) ada di logo_colors.xml -->
+<resources>
+    <color name="surface_bg">#F6F7FB</color>
+    <color name="text_muted">#5B6675</color>
+    <color name="text_body">#33465F</color>
+    <color name="border">#D5DBE6</color>
+    <color name="border_soft">#E3E7EF</color>
+    <color name="danger">#B42318</color>
+    <color name="danger_bg">#FEE4E2</color>
+
+    <color name="cat_kuliah_bg">#E8F1FF</color>
+    <color name="cat_kuliah_fg">#1E40AF</color>
+    <color name="cat_kode_bg">#DDF8EF</color>
+    <color name="cat_kode_fg">#0B6B52</color>
+    <color name="cat_tugas_bg">#FFF1D6</color>
+    <color name="cat_tugas_fg">#8A4B00</color>
+    <color name="cat_lain_bg">#ECEFF4</color>
+    <color name="cat_lain_fg">#33465F</color>
+</resources>

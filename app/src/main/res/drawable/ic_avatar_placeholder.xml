@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Avatar bawaan sebelum user memasang foto -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#0E1B2C"
+        android:pathData="M0,0h120v120h-120z" />
+    <path
+        android:fillColor="#3DDBB0"
+        android:pathData="M60,48m-16,0a16,16 0,1 0,32 0a16,16 0,1 0,-32 0" />
+    <path
+        android:fillColor="#3DDBB0"
+        android:pathData="M28,120c0,-22 18,-34 32,-34s32,12 32,34z" />
+</vector>
