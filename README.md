@@ -17,7 +17,7 @@ Dibuat dengan **Kotlin** dan **Firebase**.
 
 ## 1. Deskripsi Singkat
 
-**CatatanBelajar** membantu mahasiswa merapikan catatan belajarnya di satu tempat. Pengguna mendaftar, masuk, lalu membuat catatan yang dikelompokkan ke dalam kategori **Kuliah**, **Kode**, **Tugas**, dan **Lainnya**. Semua data disimpan di Cloud Firestore dan dilindungi Security Rules, sehingga tiap pengguna hanya bisa melihat dan mengubah catatannya sendiri.
+**CatatanBelajar** membantu mahasiswa merapikan catatan belajarnya di satu tempat. Pengguna mendaftar, masuk, lalu membuat catatan yang dikelompokkan ke dalam kategori **Kuliah**, **Kode**, **Tugas**, dan **Semua**. Semua data disimpan di Cloud Firestore dan dilindungi Security Rules, sehingga tiap pengguna hanya bisa melihat dan mengubah catatannya sendiri.
 
 ## 2. Fitur
 
@@ -153,7 +153,7 @@ notes/{autoId}
     uid: String               pemilik catatan (uid FirebaseAuth)
     title: String
     content: String
-    category: String          Kuliah | Kode | Tugas | Lainnya
+    category: String          Kuliah | Kode | Tugas | Semua
     photoBase64: String       foto lampiran, kosong jika tidak ada (maks. 800 px)
     createdAt: Timestamp      diisi server
     updatedAt: Timestamp      diisi server
