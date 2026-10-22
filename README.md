@@ -4,7 +4,11 @@ Aplikasi Android untuk mencatat materi kuliah, potongan kode, dan tugas. Setiap 
 
 Dibuat dengan **Kotlin** dan **Firebase**.
 
----
+<p align="center">
+  <img src="screenshots/splash.jpeg" width="250" alt="Halaman Splash" />
+  <img src="screenshots/ubah profil.jpeg" width="250" alt="Halaman Ubah Profil" />
+  <img src="screenshots/profil.jpeg" width="250" alt="Halaman Profil" />
+</p>
 
 ## Daftar Isi
 
