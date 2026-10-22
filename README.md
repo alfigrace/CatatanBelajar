@@ -5,9 +5,18 @@ Aplikasi Android untuk mencatat materi kuliah, potongan kode, dan tugas. Setiap 
 Dibuat dengan **Kotlin** dan **Firebase**.
 
 <p align="center">
-  <img src="screenshots/splash.jpeg" width="250" alt="Halaman Splash" />
-  <img src="screenshots/ubah profil.jpeg" width="250" alt="Halaman Ubah Profil" />
-  <img src="screenshots/profil.jpeg" width="250" alt="Halaman Profil" />
+  <img src="screenshots/splash.jpeg" width="150" alt="Halaman Splash" />
+  <img src="screenshots/login" width="150" alt="Halaman Login" />
+  <img src="screenshots/register" width="150" alt="Halaman Register" />
+  <img src="screenshots/note" width="150" alt="Halaman Tambah Catatan" />
+  <img src="screenshots/home_1" width="150" alt="Halaman Semua Catatan" />
+  <img src="screenshots/home_2.jpeg" width="150" alt="Halaman Catatan Kuliah" />
+  <img src="screenshots/home_3.jpeg" width="150" alt="Halaman Catatan Kode" />
+  <img src="screenshots/home_4.jpeg" width="150" alt="Halaman Catatan Tugas" />
+  <img src="screenshots/profil.jpeg" width="150" alt="Halaman Profil" />
+  <img src="screenshots/edit_nama.jpeg" width="150" alt="Halaman Edit Nama" />
+  <img src="screenshots/ubah_profil.jpeg" width="150" alt="Halaman Ubah Gambar Profil" />
+  <img src="screenshots/keluar.jpeg" width="150" alt="Halaman Keluar" />
 </p>
 
 ## Daftar Isi
