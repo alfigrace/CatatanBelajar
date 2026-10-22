@@ -8,8 +8,8 @@ Dibuat dengan **Kotlin** dan **Firebase**.
   <img src="screenshots/splash.jpeg" width="150" alt="Halaman Splash" />
   <img src="screenshots/login" width="150" alt="Halaman Login" />
   <img src="screenshots/register" width="150" alt="Halaman Register" />
-  <img src="screenshots/note" width="150" alt="Halaman Tambah Catatan" />
-  <img src="screenshots/home_1" width="150" alt="Halaman Semua Catatan" />
+  <img src="screenshots/note.jpeg" width="150" alt="Halaman Tambah Catatan" />
+  <img src="screenshots/home_1.jpeg" width="150" alt="Halaman Semua Catatan" />
   <img src="screenshots/home_2.jpeg" width="150" alt="Halaman Catatan Kuliah" />
   <img src="screenshots/home_3.jpeg" width="150" alt="Halaman Catatan Kode" />
   <img src="screenshots/home_4.jpeg" width="150" alt="Halaman Catatan Tugas" />
